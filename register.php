@@ -61,7 +61,7 @@
     </div>
 
     <footer class="d-flex justify-content-center border-top mt-3 fixed-bottom">
-        <p>&copy; E-Gallery 2024 | Putra Nanda S</p>
+        <p>&copy; E-Gallery 2024 | Ridho Raihan F</p>
     </footer>
 
 
